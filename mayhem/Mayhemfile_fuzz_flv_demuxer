@@ -1,0 +1,8 @@
+project: savantenvs/media-server
+target: fuzz_flv_demuxer
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_flv_demuxer/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_flv_demuxer
+    libfuzzer: true

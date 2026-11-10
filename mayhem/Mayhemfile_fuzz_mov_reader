@@ -1,0 +1,8 @@
+project: savantenvs/media-server
+target: fuzz_mov_reader
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_mov_reader/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_mov_reader
+    libfuzzer: true

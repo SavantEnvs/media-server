@@ -1,0 +1,152 @@
+aac.asc: r=2 profile=2 freq=44100 ch=2
+avc.from_nalu: r=39 profile=100 level=10 sps=1 pps=1
+avc.record: bytes=46 crc=367802b6
+avc.record_load: r=42 profile=100 level=10 sps=1 pps=1
+mov.file: bytes=2793
+mov.getinfo: rc=0 duration=240
+mov.info: video=1 320x180 audio=1 ch=2 rate=44100 sub=0
+mov.sample.0: rc=1 track=1 bytes=344 pts=0 dts=0 flags=1 crc=57856d41
+mov.sample.1: rc=1 track=1 bytes=142 pts=40 dts=40 flags=0 crc=f55927a5
+mov.sample.2: rc=1 track=1 bytes=159 pts=80 dts=80 flags=0 crc=a1e282db
+mov.sample.3: rc=1 track=1 bytes=176 pts=120 dts=120 flags=0 crc=57d9f014
+mov.sample.4: rc=1 track=1 bytes=193 pts=160 dts=160 flags=0 crc=6c0aa490
+mov.sample.5: rc=1 track=1 bytes=210 pts=200 dts=200 flags=0 crc=5c7f000b
+mov.sample.6: rc=1 track=2 bytes=24 pts=0 dts=0 flags=0 crc=612e7bf6
+mov.sample.7: rc=1 track=2 bytes=27 pts=23 dts=23 flags=0 crc=ca3b5e08
+mov.sample.8: rc=1 track=2 bytes=30 pts=46 dts=46 flags=0 crc=bf075f31
+mov.sample.9: rc=1 track=2 bytes=33 pts=69 dts=69 flags=0 crc=bafc05b8
+mov.sample.10: rc=1 track=2 bytes=36 pts=92 dts=92 flags=0 crc=5fb7b9a6
+mov.sample.11: rc=1 track=2 bytes=39 pts=115 dts=115 flags=0 crc=586308ff
+mov.sample.12: rc=1 track=2 bytes=42 pts=138 dts=138 flags=0 crc=af5ed6bb
+mov.sample.13: rc=1 track=2 bytes=45 pts=161 dts=161 flags=0 crc=42e314ef
+mov.read_end: rc=0 samples=14
+mov.seek: rc=0 ts=0
+mov.afterseek.sample.0: rc=1 track=1 bytes=344 pts=0 dts=0 flags=1 crc=57856d41
+fmp4.file: bytes=2924
+fmp4.getinfo: rc=0
+fmp4.info: video=1 320x180 audio=1 ch=2 rate=44100 sub=0
+fmp4.sample.0: rc=1 track=1 bytes=344 pts=0 dts=0 flags=1 crc=57856d41
+fmp4.sample.1: rc=1 track=1 bytes=142 pts=40 dts=40 flags=0 crc=f55927a5
+fmp4.sample.2: rc=1 track=1 bytes=159 pts=80 dts=80 flags=0 crc=a1e282db
+fmp4.sample.3: rc=1 track=1 bytes=176 pts=120 dts=120 flags=0 crc=57d9f014
+fmp4.sample.4: rc=1 track=1 bytes=193 pts=160 dts=160 flags=0 crc=6c0aa490
+fmp4.sample.5: rc=1 track=1 bytes=210 pts=200 dts=200 flags=0 crc=5c7f000b
+fmp4.sample.6: rc=1 track=2 bytes=24 pts=0 dts=0 flags=1 crc=612e7bf6
+fmp4.sample.7: rc=1 track=2 bytes=27 pts=23 dts=23 flags=1 crc=ca3b5e08
+fmp4.sample.8: rc=1 track=2 bytes=30 pts=46 dts=46 flags=1 crc=bf075f31
+fmp4.sample.9: rc=1 track=2 bytes=33 pts=69 dts=69 flags=1 crc=bafc05b8
+fmp4.sample.10: rc=1 track=2 bytes=36 pts=92 dts=92 flags=1 crc=5fb7b9a6
+fmp4.sample.11: rc=1 track=2 bytes=39 pts=115 dts=115 flags=1 crc=586308ff
+fmp4.read_end: rc=0 samples=12
+mkv.file: bytes=2020
+mkv.getinfo: rc=0 duration=240
+mkv.info: video=1 320x180 audio=1 ch=2 rate=44100 sub=0
+mkv.sample.0: rc=1 track=1 bytes=344 pts=0 dts=0 flags=1 crc=57856d41
+mkv.sample.1: rc=1 track=1 bytes=142 pts=40 dts=40 flags=0 crc=f55927a5
+mkv.sample.2: rc=1 track=1 bytes=159 pts=80 dts=80 flags=0 crc=a1e282db
+mkv.sample.3: rc=1 track=1 bytes=176 pts=120 dts=120 flags=0 crc=57d9f014
+mkv.sample.4: rc=1 track=1 bytes=193 pts=160 dts=160 flags=0 crc=6c0aa490
+mkv.sample.5: rc=1 track=1 bytes=210 pts=200 dts=200 flags=0 crc=5c7f000b
+mkv.sample.6: rc=1 track=2 bytes=24 pts=0 dts=0 flags=1 crc=612e7bf6
+mkv.sample.7: rc=1 track=2 bytes=27 pts=23 dts=23 flags=1 crc=ca3b5e08
+mkv.sample.8: rc=1 track=2 bytes=30 pts=46 dts=46 flags=1 crc=bf075f31
+mkv.sample.9: rc=1 track=2 bytes=33 pts=69 dts=69 flags=1 crc=bafc05b8
+mkv.sample.10: rc=1 track=2 bytes=36 pts=92 dts=92 flags=1 crc=5fb7b9a6
+mkv.sample.11: rc=1 track=2 bytes=39 pts=115 dts=115 flags=1 crc=586308ff
+mkv.sample.12: rc=1 track=2 bytes=42 pts=138 dts=138 flags=1 crc=af5ed6bb
+mkv.sample.13: rc=1 track=2 bytes=45 pts=161 dts=161 flags=1 crc=42e314ef
+mkv.read_end: rc=0 samples=14
+flv.mux: tags=14 file_bytes=1733 file_crc=2a770df8
+flv.pkt.0: codec=8199 bytes=46 pts=0 dts=0 flags=0 crc=367802b6
+flv.pkt.1: codec=7 bytes=344 pts=0 dts=0 flags=1 crc=57856d41
+flv.pkt.2: codec=4256 bytes=2 pts=0 dts=0 flags=0 crc=249a7248
+flv.pkt.3: codec=160 bytes=24 pts=0 dts=0 flags=0 crc=612e7bf6
+flv.pkt.4: codec=7 bytes=142 pts=40 dts=40 flags=0 crc=f55927a5
+flv.pkt.5: codec=160 bytes=27 pts=23 dts=23 flags=0 crc=ca3b5e08
+flv.pkt.6: codec=7 bytes=159 pts=80 dts=80 flags=0 crc=a1e282db
+flv.pkt.7: codec=160 bytes=30 pts=46 dts=46 flags=0 crc=bf075f31
+flv.pkt.8: codec=7 bytes=176 pts=120 dts=120 flags=0 crc=57d9f014
+flv.pkt.9: codec=160 bytes=33 pts=69 dts=69 flags=0 crc=bafc05b8
+flv.pkt.10: codec=7 bytes=193 pts=160 dts=160 flags=0 crc=6c0aa490
+flv.pkt.11: codec=160 bytes=36 pts=92 dts=92 flags=0 crc=5fb7b9a6
+flv.pkt.12: codec=7 bytes=210 pts=200 dts=200 flags=0 crc=5c7f000b
+flv.pkt.13: codec=160 bytes=39 pts=115 dts=115 flags=0 crc=586308ff
+flv.parser.whole: r=0 packets=14
+flv.pkt.0: codec=8199 bytes=46 pts=0 dts=0 flags=0 crc=367802b6
+flv.pkt.1: codec=7 bytes=344 pts=0 dts=0 flags=1 crc=57856d41
+flv.pkt.2: codec=4256 bytes=2 pts=0 dts=0 flags=0 crc=249a7248
+flv.pkt.3: codec=160 bytes=24 pts=0 dts=0 flags=0 crc=612e7bf6
+flv.pkt.4: codec=7 bytes=142 pts=40 dts=40 flags=0 crc=f55927a5
+flv.pkt.5: codec=160 bytes=27 pts=23 dts=23 flags=0 crc=ca3b5e08
+flv.pkt.6: codec=7 bytes=159 pts=80 dts=80 flags=0 crc=a1e282db
+flv.pkt.7: codec=160 bytes=30 pts=46 dts=46 flags=0 crc=bf075f31
+flv.pkt.8: codec=7 bytes=176 pts=120 dts=120 flags=0 crc=57d9f014
+flv.pkt.9: codec=160 bytes=33 pts=69 dts=69 flags=0 crc=bafc05b8
+flv.pkt.10: codec=7 bytes=193 pts=160 dts=160 flags=0 crc=6c0aa490
+flv.pkt.11: codec=160 bytes=36 pts=92 dts=92 flags=0 crc=5fb7b9a6
+flv.pkt.12: codec=7 bytes=210 pts=200 dts=200 flags=0 crc=5c7f000b
+flv.pkt.13: codec=160 bytes=39 pts=115 dts=115 flags=0 crc=586308ff
+flv.parser.trickle: r=0 packets=14
+flv.pkt.0: codec=8199 bytes=46 pts=0 dts=0 flags=0 crc=367802b6
+flv.pkt.1: codec=7 bytes=344 pts=54 dts=54 flags=1 crc=4dc28ea9
+flv.pkt.2: codec=7 bytes=142 pts=406 dts=406 flags=0 crc=49f2e171
+flv.pkt.3: codec=7 bytes=159 pts=556 dts=556 flags=0 crc=0a759e7a
+flv.pkt.4: codec=7 bytes=176 pts=723 dts=723 flags=0 crc=813a0f43
+flv.pkt.5: codec=7 bytes=193 pts=907 dts=907 flags=0 crc=f008d68b
+flv.pkt.6: codec=7 bytes=210 pts=1108 dts=1108 flags=0 crc=e91cce4d
+flv.demuxer: r=0 packets=7
+ts.mux: r=0 streams=257,258 bytes=3948 packets188=21 crc=cf1f7510
+ts.pkt.0: program=1 stream=258 codec=15 flags=4096 pts=900 dts=900 bytes=31 crc=064bbc69
+ts.pkt.1: program=1 stream=257 codec=27 flags=4097 pts=900 dts=900 bytes=344 crc=4dc28ea9
+ts.pkt.2: program=1 stream=258 codec=15 flags=0 pts=2970 dts=2970 bytes=34 crc=0bb7bd21
+ts.pkt.3: program=1 stream=257 codec=27 flags=0 pts=4500 dts=4500 bytes=142 crc=49f2e171
+ts.pkt.4: program=1 stream=258 codec=15 flags=0 pts=5040 dts=5040 bytes=37 crc=bcda5c85
+ts.pkt.5: program=1 stream=257 codec=27 flags=0 pts=8100 dts=8100 bytes=159 crc=0a759e7a
+ts.pkt.6: program=1 stream=258 codec=15 flags=0 pts=7110 dts=7110 bytes=40 crc=b321da45
+ts.pkt.7: program=1 stream=257 codec=27 flags=0 pts=11700 dts=11700 bytes=176 crc=813a0f43
+ts.pkt.8: program=1 stream=258 codec=15 flags=0 pts=9180 dts=9180 bytes=43 crc=17250979
+ts.pkt.9: program=1 stream=257 codec=27 flags=0 pts=15300 dts=15300 bytes=193 crc=f008d68b
+ts.pkt.10: program=1 stream=258 codec=15 flags=0 pts=11250 dts=11250 bytes=46 crc=2b8a9c59
+ts.pkt.11: program=1 stream=257 codec=27 flags=0 pts=18900 dts=18900 bytes=210 crc=e91cce4d
+ts.demux: r=0 packets=12
+ps.mux: r=0 streams=224,192 bytes=1891 crc=e0f69d82
+ps.pkt.0: stream=192 codec=15 flags=0 pts=900 dts=900 bytes=31 crc=064bbc69
+ps.pkt.1: stream=224 codec=27 flags=1 pts=900 dts=900 bytes=344 crc=4dc28ea9
+ps.pkt.2: stream=192 codec=15 flags=0 pts=2970 dts=2970 bytes=34 crc=0bb7bd21
+ps.pkt.3: stream=224 codec=27 flags=0 pts=4500 dts=4500 bytes=142 crc=49f2e171
+ps.pkt.4: stream=192 codec=15 flags=0 pts=5040 dts=5040 bytes=37 crc=bcda5c85
+ps.pkt.5: stream=224 codec=27 flags=0 pts=8100 dts=8100 bytes=159 crc=0a759e7a
+ps.pkt.6: stream=192 codec=15 flags=0 pts=7110 dts=7110 bytes=40 crc=b321da45
+ps.pkt.7: stream=224 codec=27 flags=0 pts=11700 dts=11700 bytes=176 crc=813a0f43
+ps.pkt.8: stream=192 codec=15 flags=0 pts=9180 dts=9180 bytes=43 crc=17250979
+ps.pkt.9: stream=224 codec=27 flags=0 pts=15300 dts=15300 bytes=193 crc=f008d68b
+ps.pkt.10: stream=192 codec=15 flags=0 pts=11250 dts=11250 bytes=46 crc=2b8a9c59
+ps.demux: consumed=1891 of 1891 packets=11
+rtp.h264.encode: r=0 packets=6 header0_crc=8f1977bd records_crc=b252a290
+rtp.frame.0: bytes=24 ts=0 flags=0x0 crc=caaa1d76
+rtp.frame.1: bytes=7 ts=0 flags=0x0 crc=c16df881
+rtp.frame.2: bytes=301 ts=0 flags=0x0 crc=c632d63c
+rtp.frame.3: bytes=138 ts=3600 flags=0x0 crc=9e413124
+rtp.frame.4: bytes=155 ts=7200 flags=0x0 crc=72801e43
+rtp.frame.5: bytes=172 ts=10800 flags=0x0 crc=27e9f402
+rtp.h264.expect.0: bytes=344 crc=d8e49ff2
+rtp.h264.expect.1: bytes=142 crc=9e413124
+rtp.h264.expect.2: bytes=159 crc=72801e43
+rtp.h264.expect.3: bytes=176 crc=27e9f402
+rtp.pcmu.encode: r=0 packets=4 header0_crc=dfcde185 records_crc=408346ba
+rtp.frame.0: bytes=160 ts=0 flags=0x0 crc=9b9e6dcb
+rtp.frame.1: bytes=160 ts=160 flags=0x0 crc=23c846a7
+rtp.frame.2: bytes=160 ts=320 flags=0x0 crc=f340355e
+rtp.frame.3: bytes=160 ts=480 flags=0x0 crc=a72b8e45
+rtp.pcmu.expect.0: bytes=160 crc=9b9e6dcb
+rtp.pcmu.expect.1: bytes=160 crc=23c846a7
+rtp.pcmu.expect.2: bytes=160 crc=f340355e
+rtp.pcmu.expect.3: bytes=160 crc=a72b8e45
+rtp.demux.pkt.0: bytes=20 ts=0 flags=0x0 crc=5789dff8
+rtp.demux.input.0: r=0
+rtp.demux.pkt.1: bytes=20 ts=160 flags=0x0 crc=cd750a71
+rtp.demux.input.1: r=0
+rtp.demux.pkt.2: bytes=20 ts=320 flags=0x0 crc=7c45898b
+rtp.demux.input.2: r=0
+rtp.demux.rtcp: r=200
+rtp.demux.stats: delivered=3 lost=0 late=0 misorder=0 duplicate=0
